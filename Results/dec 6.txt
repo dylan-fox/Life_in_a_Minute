@@ -1,0 +1,408 @@
+Ready to begin.
+Enter the weight of the Career jar in grams.
+Career weight set to: 693.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 580.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 710.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 605.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 568.00
+
+Years spent per category: 
+Career: 5.36
+Community: 0.84
+Education: 6.04
+Family: 1.84
+Play: 0.36
+Wasted: 57.06
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 633.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 690.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 654.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 653.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 678.00
+
+Years spent per category: 
+Career: 2.96
+Community: 5.24
+Education: 3.80
+Family: 3.76
+Play: 4.76
+Wasted: 50.98
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 727.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 689.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 693.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 788.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 619.00
+
+Years spent per category: 
+Career: 6.72
+Community: 5.20
+Education: 5.36
+Family: 9.16
+Play: 2.40
+Wasted: 42.66
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 682.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 672.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 668.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 709.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 741.00
+
+Years spent per category: 
+Career: 4.92
+Community: 4.52
+Education: 4.36
+Family: 6.00
+Play: 7.28
+Wasted: 44.42
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 812.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 719.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 648.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 789.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 735.00
+
+Years spent per category: 
+Career: 10.12
+Community: 6.40
+Education: 3.56
+Family: 9.20
+Play: 7.04
+Wasted: 35.18
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 809.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 809.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 710.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 727.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 709.00
+
+Years spent per category: 
+Career: 10.00
+Community: 10.00
+Education: 6.04
+Family: 6.72
+Play: 6.00
+Wasted: 32.74
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 796.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 750.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 798.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 848.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 687.00
+
+Years spent per category: 
+Career: 9.48
+Community: 7.64
+Education: 9.56
+Family: 11.56
+Play: 5.12
+Wasted: 28.14
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 643.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 809.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 730.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 729.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 822.00
+
+Years spent per category: 
+Career: 3.36
+Community: 10.00
+Education: 6.84
+Family: 6.80
+Play: 10.52
+Wasted: 33.98
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 651.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 740.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 723.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 796.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 759.00
+
+Years spent per category: 
+Career: 3.68
+Community: 7.24
+Education: 6.56
+Family: 9.48
+Play: 8.00
+Wasted: 36.54
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 1029.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 998.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 722.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 868.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 824.00
+
+Years spent per category: 
+Career: 18.80
+Community: 17.56
+Education: 6.52
+Family: 12.36
+Play: 10.60
+Wasted: 5.66
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 787.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 594.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 685.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 961.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 717.00
+
+Years spent per category: 
+Career: 9.12
+Community: 1.40
+Education: 5.04
+Family: 16.08
+Play: 6.32
+Wasted: 33.54
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 685.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 626.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 759.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 662.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 630.00
+
+Years spent per category: 
+Career: 5.04
+Community: 2.68
+Education: 8.00
+Family: 4.12
+Play: 2.84
+Wasted: 48.82
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 692.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 711.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 577.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 729.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 577.00
+
+Years spent per category: 
+Career: 5.32
+Community: 6.08
+Education: 0.72
+Family: 6.80
+Play: 0.72
+Wasted: 51.86
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
+Career weight set to: 752.00
+
+Enter the weight of the Community jar in grams.
+Community weight set to: 894.00
+
+Enter the weight of the Education jar in grams.
+Education weight set to: 835.00
+
+Enter the weight of the Family jar in grams.
+Family weight set to: 790.00
+
+Enter the weight of the Play jar in grams.
+Play weight set to: 725.00
+
+Years spent per category: 
+Career: 7.72
+Community: 13.40
+Education: 11.04
+Family: 9.24
+Play: 6.64
+Wasted: 23.46
+
+Print receipt? Enter 1 for yes or 2 for no.
+Printing receipt.
+Printing...
+Done printing.
+
+
+Enter the weight of the Career jar in grams.
