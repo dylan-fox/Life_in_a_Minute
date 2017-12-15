@@ -17,6 +17,8 @@
 * 2 Rubber wheels
 * 500cm Rubber elastic cord
 * 2 - 1”x3”x3” Wood blocks
+* 1x Arduino Uno
+* 1x 9V Battery pack
 
 #### Target Jars 
 
@@ -27,6 +29,9 @@ edge(custom fit for jar used)
 * 5 - Popsicle sticks
 * 5 - Zipties
 * 5 - 3” x 1” cardboard pieces
+* 2x Arduino Uno
+* 2x 9V Battery pack
+
 
 #### Receipt printer
 
