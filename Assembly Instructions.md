@@ -1,24 +1,24 @@
-##Materials
+## Materials
 
-####Conveyor Belt
+#### Conveyor Belt
 
-* 1x 2í x 2í x 0.75î Piece of wood
-* 6x 9î Paint rollers 
-* 6x 9î Paint roller cover
-* 16î x 44î Gabardine (or other tightly woven fabric)
-* 6x 1î T-junction PVC pipe joints
-* 12x 1 ºî Galvanic pipe straps
+* 1x 2‚Äô x 2‚Äô x 0.75‚Äù Piece of wood
+* 6x 9‚Äù Paint rollers 
+* 6x 9‚Äù Paint roller cover
+* 16‚Äù x 44‚Äù Gabardine (or other tightly woven fabric)
+* 6x 1‚Äù T-junction PVC pipe joints
+* 12x 1 ¬º‚Äù Galvanic pipe straps
 * 2x Small springs
-* 2x 1 Ωî Eye hooks
-* 6x 1 Ωî Zinc S-hooks
-* 2x 3/16î by 5 Ωî Turnbuckles
-* 24x Size 6 æî Wood screws
+* 2x 1 ¬Ω‚Äù Eye hooks
+* 6x 1 ¬Ω‚Äù Zinc S-hooks
+* 2x 3/16‚Äù by 5 ¬Ω‚Äù Turnbuckles
+* 24x Size 6 ¬æ‚Äù Wood screws
 * 2 Continuous servo motors
 * 2 Rubber wheels
 * 500cm Rubber elastic cord
-* 2 - 1îx3îx3î Wood blocks
+* 2 - 1‚Äùx3‚Äùx3‚Äù Wood blocks
 
-####Target Jars 
+#### Target Jars 
 
 * 5 - 180 Servo Motors
 * 5 - Laser Cut Lids with 4 holes towards the 
@@ -26,15 +26,15 @@ edge(custom fit for jar used)
 * 5 - Cylindrical Transparent jars 
 * 5 - Popsicle sticks
 * 5 - Zipties
-* 5 - 3î x 1î cardboard pieces
+* 5 - 3‚Äù x 1‚Äù cardboard pieces
 
-####Receipt printer
+#### Receipt printer
 
 * [Adafruit Thermal Receipt Printer Starter Pack] (https://www.adafruit.com/product/600)
 
-##Assembly Instructions
+## Assembly Instructions
 
-####Assembling the Conveyor Belt
+#### Assembling the Conveyor Belt
 1. Cut wood in half. 
 2. Hinge together short end to short end to ensure stability and ease of transport. This forms the base.
 3. Drill and screw in eye hooks on far sides of the base, off center.
@@ -46,19 +46,19 @@ edge(custom fit for jar used)
 Assembly so far should look like this:
 ![conveyor belt construction](https://i.imgur.com/halpl3U.jpg "Conveyor Belt Construction")
 
-####Powering the Conveyor Belt
+#### Powering the Conveyor Belt
 1. Turn the two rubber wheels inside out such that the groove is outside
 2. Glue each wheel to the head of the servo motor
 3. Attach wood blocks near the base of  the first and last servos. The woodblock should be attached such that the servos that would be mounted will be three inches from the wooden base and can rotate freely
 4. Glue servos onto the woodblock and check if the they rotate without any obstruction
 5. Measure the height between the top of the paint roller and the servo. Cut double the amount of the length from the rubber elastic cord. 
 6. Connect the two ends of the cord 
-7. Mount the cord over the paint roller and servo such that the paint roller rotates, the servo rotates and the cord doesnít slip off the paint roller
+7. Mount the cord over the paint roller and servo such that the paint roller rotates, the servo rotates and the cord doesn‚Äôt slip off the paint roller
 8. Repeat the same process and mount the cord over the second servo 
 9. Check if the conveyor belt rotates
 
-####Target Jars 
-1. Glue the cardboard piece to the rim of the jar where youíd like the place the servo motors. Repeat the same for all the jars
+#### Target Jars 
+1. Glue the cardboard piece to the rim of the jar where you‚Äôd like the place the servo motors. Repeat the same for all the jars
 2. Set the servo to rotate for 100 degrees.
 3. Attach popsicle stick (using the hot glue gun) to the servo motors such that:
     * the edge of the popsicle stick is on the rotating head.
