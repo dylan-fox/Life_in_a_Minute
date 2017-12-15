@@ -32,6 +32,10 @@ edge(custom fit for jar used)
 
 * [Adafruit Thermal Receipt Printer Starter Pack] (https://www.adafruit.com/product/600)
 
+#### Other
+* Tube or carafe to pour coins out of
+* Trash can or other receptacle for conveyor belt to empty into
+
 ## Assembly Instructions
 
 #### Assembling the Conveyor Belt
